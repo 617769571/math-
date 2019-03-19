@@ -52,8 +52,4 @@ function div(a, b) {
     } catch (g) {}
     return c = Number(a.toString().replace(".", "")), d = Number(b.toString().replace(".", "")), mul(c / d, Math.pow(10, f - e));
 }
---------------------- 
-作者：笔心 
-来源：CSDN 
-原文：https://blog.csdn.net/qinshenxue/article/details/43671763 
-版权声明：本文为博主原创文章，转载请附上博文链接！
+
